@@ -1,1 +1,1 @@
-This is afine created remotely in repository. 
+This is a file created remotely in repository. 
